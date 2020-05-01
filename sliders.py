@@ -79,7 +79,7 @@ layout = row(
     column(amp_slider, freq_slider, phase_slider, offset_slider),
 )
 
-output_file(r'C:\Users\krist\Desktop\range_slider.html', title="slider.py example")
+output_file(r'C:\Users\xxxx\Desktop\range_slider.html', title="slider.py example")
 
 
 
