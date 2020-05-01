@@ -41,7 +41,7 @@ print(df.head())
 #df['Adj_Close']
 #df['Adj_Volume']
 
-output_file(r"C:\Users\krist\Desktop\data_table.html")
+output_file(r"C:\Users\xxxx\Desktop\data_table.html")
 
 
 sDate = df['Date'].min()
