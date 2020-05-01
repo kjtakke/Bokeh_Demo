@@ -19,7 +19,7 @@ dfPivot = pd.DataFrame(dfPivot.to_records())
 y = dfPivot['continent']
 x = dfPivot['lifeExp']
 
-output_file(r'C:\Users\krist\Desktop\Bokeh_Demo.html')
+output_file(r'C:\Users\xxxx\Desktop\Bokeh_Demo.html')
 
 p1 = figure(
     y_range=y,
