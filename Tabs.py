@@ -23,7 +23,7 @@ dfPivot = pd.DataFrame(dfPivot.to_records())
 y = dfPivot['continent']
 x = dfPivot['lifeExp']
 
-output_file(r'C:\Users\krist\Desktop\tabbed_content.html')
+output_file(r'C:\Users\xxxx\Desktop\tabbed_content.html')
 
 p1 = figure(
     y_range=y,
